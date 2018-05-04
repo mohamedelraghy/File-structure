@@ -4,3 +4,6 @@ All processes at files
 -show all recordes at file
 -Delete recorde
 -update recorde
+
+# Run 
+python3 Main.py
